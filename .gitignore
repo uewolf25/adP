@@ -1,7 +1,10 @@
 .DS_Store*
-.idea
-*.iml*
+.idea/
+adP.iml
 *.class*
 
-0514/
-0521/
+
+# scala settings
+*project/
+*target/
+pra/
